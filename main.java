@@ -41,10 +41,11 @@ class Main{
         lstAnimal.sort(Comparator.comparing(Animal::getAb));
 
         lstAnimal.forEach(c-> System.out.println(c.getAb()));
+        System.out.println("Test");
    }
 
     public static void main(){
-        System.out.println("Test");
+        System.out.println("Ma modification");
     }
     
 }
