@@ -46,8 +46,11 @@ class Main{
 
     public static void main(){
         System.out.println("Mon évolution 1");
-        System.out.println("Mon évolution 2");
+        System.out.println("Mon évolution 0");
         System.out.println("Mon évolution 3");
+        System.out.println("OUI");
+        System.out.println("NON");
+        System.out.println("NON");
     }
     
 }
