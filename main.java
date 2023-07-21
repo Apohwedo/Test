@@ -45,7 +45,8 @@ class Main{
    }
 
     public static void main(){
-        System.out.println("BrancheMaj");
+        System.out.println("MAJ");
+
     }
     
 }
